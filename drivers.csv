@@ -1,0 +1,93 @@
+"driver_id","name","age","city","experience_years","average_rating","active_status","is_active"
+101,"William Black",56,"San Francisco",15,4.8,"Active",TRUE
+102,"Holly Sherman",39,"Los Angeles",19,4.3,"Active",TRUE
+103,"Crystal Cook",57,"Chicago",9,4.5,"Inactive",FALSE
+104,"Tiffany Wright",58,"San Francisco",19,4.4,"Inactive",FALSE
+105,"Jeffrey King",49,"Los Angeles",4,4.4,"Inactive",FALSE
+106,"Frank Mitchell",27,"Los Angeles",11,4.3,"Inactive",FALSE
+107,"James Jones",41,"Los Angeles",5,5,"Inactive",FALSE
+108,"Ronald Holden",35,"Los Angeles",7,4.9,"Active",TRUE
+109,"Maxwell Gallagher",35,"New York",15,4.5,"Inactive",FALSE
+110,"Brittany Cruz",59,"New York",17,4.9,"Inactive",FALSE
+111,"Barbara Bryant",52,"Chicago",2,4.8,"Inactive",FALSE
+112,"Steven Williams",59,"New York",10,4.5,"Inactive",FALSE
+113,"Brian Edwards II",35,"Los Angeles",15,4.4,"Inactive",FALSE
+114,"Sara Alvarado",46,"Miami",17,4.1,"Active",TRUE
+115,"Patrick Hall",37,"Chicago",4,4.4,"Active",TRUE
+116,"Mark Hernandez",38,"Miami",18,4.9,"Inactive",FALSE
+117,"Lisa Brown",36,"San Francisco",20,4.8,"Active",TRUE
+118,"Jimmy Davis",51,"Miami",2,4.7,"Active",TRUE
+119,"April Rodriguez",44,"Chicago",4,5,"Active",TRUE
+120,"Andrew Heath",26,"Los Angeles",3,4.2,"Active",TRUE
+121,"David Moore",32,"San Francisco",9,4.9,"Inactive",FALSE
+122,"Randall Cook",32,"Chicago",15,5,"Inactive",FALSE
+123,"David Newton",57,"New York",6,5,"Active",TRUE
+124,"Eric Gray",25,"Chicago",8,4.5,"Active",TRUE
+125,"Gabriel Jackson",55,"New York",5,4.8,"Inactive",FALSE
+126,"Linda Gray",45,"Miami",2,4.9,"Active",TRUE
+127,"Katherine Ellison",42,"Los Angeles",11,4.6,"Inactive",FALSE
+128,"Chad Johnson",29,"Chicago",7,4.4,"Active",TRUE
+129,"Mary Andrews",46,"New York",3,4.4,"Active",TRUE
+130,"David Craig",50,"New York",18,4.7,"Inactive",FALSE
+131,"Lance Fox",58,"Miami",14,4.9,"Active",TRUE
+132,"Kaitlin Walton",27,"Los Angeles",6,4.8,"Active",TRUE
+133,"Adrienne Thompson",40,"Miami",7,4.2,"Inactive",FALSE
+134,"Ashley Foster",59,"Los Angeles",12,4.3,"Inactive",FALSE
+135,"Michael Jackson",56,"Los Angeles",19,4.8,"Inactive",FALSE
+137,"Steven Alexander",47,"Los Angeles",20,4.1,"Active",TRUE
+138,"Christine Adkins",60,"New York",16,4.8,"Active",TRUE
+139,"John Deleon",47,"San Francisco",11,4.3,"Inactive",FALSE
+140,"David Walker",59,"Chicago",2,4.6,"Inactive",FALSE
+141,"Luis Compton",49,"New York",15,4.6,"Active",TRUE
+142,"Samuel Warren",58,"Chicago",20,4.9,"Active",TRUE
+143,"Martha Nunez",36,"New York",4,4.1,"Active",TRUE
+144,"Valerie Henry MD",47,"San Francisco",12,4.8,"Inactive",FALSE
+145,"Adam Noble",52,"San Francisco",11,4.8,"Active",TRUE
+146,"Lawrence Santiago",43,"Chicago",17,4.1,"Inactive",FALSE
+147,"Raymond Hill",38,"Chicago",16,4.3,"Inactive",FALSE
+148,"Isaiah Evans",60,"Chicago",3,4.9,"Inactive",FALSE
+149,"Catherine Washington",54,"Los Angeles",10,4.1,"Active",TRUE
+150,"Jordan Lee",60,"New York",13,4.5,"Inactive",FALSE
+151,"Kristen Smith",55,"Chicago",14,4.7,"Inactive",FALSE
+152,"Sharon Jones",36,"San Francisco",9,4.2,"Active",TRUE
+153,"Omar Dunn",40,"San Francisco",2,4.6,"Active",TRUE
+154,"Heather Meyer",58,"San Francisco",11,4,"Active",TRUE
+155,"Gregory Pruitt",34,"Los Angeles",3,4,"Active",TRUE
+156,"Peggy Scott PhD",37,"Miami",12,4.3,"Inactive",FALSE
+158,"Holly Li",47,"Chicago",14,4.1,"Inactive",FALSE
+160,"Shelby Baldwin",56,"Los Angeles",9,4.9,"Inactive",FALSE
+161,"Thomas Watson",54,"Los Angeles",9,4.4,"Active",TRUE
+162,"Mrs. Shannon Ward",58,"New York",18,5,"Active",TRUE
+164,"Joshua Williams",33,"San Francisco",9,4.5,"Inactive",FALSE
+165,"Leonard Willis",29,"Los Angeles",3,4.4,"Active",TRUE
+166,"Alexa Thomas",56,"New York",14,4.6,"Inactive",FALSE
+167,"Glenn Schultz",33,"Los Angeles",17,4.8,"Active",TRUE
+169,"Jacqueline Porter",56,"Miami",9,4.5,"Active",TRUE
+170,"Erik Greene",37,"Chicago",20,5,"Inactive",FALSE
+171,"Catherine Gonzalez",43,"Los Angeles",19,4.5,"Active",TRUE
+172,"William Richards",36,"Miami",1,4.8,"Inactive",FALSE
+173,"Sharon Thomas",43,"Miami",8,4.9,"Inactive",FALSE
+174,"Eric Gonzalez",44,"New York",12,5,"Active",TRUE
+175,"Erica Roberts",49,"Miami",20,5,"Inactive",FALSE
+176,"Brett Guzman",59,"Miami",14,4.6,"Inactive",FALSE
+177,"Charles Guerrero",58,"San Francisco",9,4.7,"Active",TRUE
+179,"Johnathan Shah",52,"New York",14,4.8,"Inactive",FALSE
+180,"Ray Clarke",51,"Los Angeles",15,4.9,"Inactive",FALSE
+182,"Edward Gonzalez",58,"Miami",19,5,"Active",TRUE
+183,"Ashley Burke",37,"San Francisco",19,4.8,"Inactive",FALSE
+184,"Nathaniel Smith",34,"Miami",2,4.4,"Inactive",FALSE
+185,"Diane Harmon",34,"Los Angeles",4,4.8,"Active",TRUE
+186,"Christopher Franco",37,"New York",20,4.8,"Inactive",FALSE
+187,"Catherine Levine",43,"Miami",1,4.3,"Inactive",FALSE
+188,"Molly Bell",47,"Los Angeles",17,4.6,"Active",TRUE
+189,"Christopher Garcia",59,"San Francisco",19,4.9,"Inactive",FALSE
+191,"Angel Sharp",59,"Miami",11,4.2,"Inactive",FALSE
+192,"Andrew Weaver",55,"Miami",14,4.7,"Inactive",FALSE
+193,"Jason Adams",44,"Los Angeles",11,4.3,"Active",TRUE
+194,"Jill Patterson",53,"San Francisco",18,4.8,"Inactive",FALSE
+195,"Kathleen Soto",31,"Chicago",9,4.4,"Active",TRUE
+196,"Stephen Ryan",54,"Miami",9,4.8,"Inactive",FALSE
+197,"Michael Shields",49,"Los Angeles",4,4.4,"Active",TRUE
+198,"Taylor Stephenson",58,"Chicago",3,4.8,"Inactive",FALSE
+199,"Monica Copeland",37,"San Francisco",10,4.1,"Inactive",FALSE
+200,"Amy Guzman",36,"New York",20,4.3,"Active",TRUE
